@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2Ir3awHcG2oBIKe66x+PKPDiaVVmKqoD2dcsYH/kOcLmPqG1fHEDOsSVR7f3Hw6Ukr51ywDfaGg2t1wSpI03w==",
+  "success": true,
+  "projectFilePath": "/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio3/ejercicio3.vbproj",
+  "expectedPackageFiles": [
+    "/home/charles/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
