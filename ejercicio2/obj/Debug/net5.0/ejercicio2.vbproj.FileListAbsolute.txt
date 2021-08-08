@@ -1,0 +1,16 @@
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/bin/Debug/net5.0/ejercicio2
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/bin/Debug/net5.0/ejercicio2.deps.json
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/bin/Debug/net5.0/ejercicio2.runtimeconfig.json
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/bin/Debug/net5.0/ejercicio2.runtimeconfig.dev.json
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/bin/Debug/net5.0/ejercicio2.dll
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/bin/Debug/net5.0/ref/ejercicio2.dll
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/bin/Debug/net5.0/ejercicio2.pdb
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ejercicio2.vbprojAssemblyReference.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ejercicio2.AssemblyInfoInputs.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ejercicio2.AssemblyInfo.vb
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ejercicio2.vbproj.CoreCompileInputs.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ejercicio2.dll
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ref/ejercicio2.dll
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ejercicio2.pdb
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/ejercicio2/obj/Debug/net5.0/ejercicio2.genruntimeconfig.cache
