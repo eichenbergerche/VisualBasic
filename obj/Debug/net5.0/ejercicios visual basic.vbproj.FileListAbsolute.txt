@@ -1,0 +1,5 @@
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/obj/Debug/net5.0/ejercicios visual basic.vbprojAssemblyReference.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/obj/Debug/net5.0/ejercicios visual basic.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/obj/Debug/net5.0/ejercicios visual basic.AssemblyInfoInputs.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/obj/Debug/net5.0/ejercicios visual basic.AssemblyInfo.vb
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/ejercicios/ejercicios visual basic/obj/Debug/net5.0/ejercicios visual basic.vbproj.CoreCompileInputs.cache
